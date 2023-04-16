@@ -7,7 +7,7 @@ provides a service in exchange for a fee
 
 ## FairDAO
 + on-chain governance for updates
-https://github.com/1m1-github/FairDAO [does not exist yet]
++ https ://github.com/1m1-github/FairDAO [does not exist yet]
 
 ## FairTreasury
 + keeps the governance and fee coins
@@ -15,27 +15,25 @@ https://github.com/1m1-github/FairDAO [does not exist yet]
 + fair spot price via balance of coins
 + primary source of liquidity
 + secondary sources balanced via arbitrageurs 
-#link("https://github.com/1m1-github/FairTreasury")
-#link("https://www.placeholder.vc/blog/2020/9/17/stop-burning-tokens-buyback-and-make-instead")
++ https://github.com/1m1-github/FairTreasury
++ https://www.placeholder.vc/blog/2020/9/17/stop-burning-tokens-buyback-and-make-instead
 
 ## FairVesting
 + transfers energy without credit risk
 + currently at per second granularity
-#link("https://github.com/1m1-github/FairVesting")
++ https://github.com/1m1-github/FairVesting
 
 ## FairTokenomics
 + is optimizable and optimized
-#link("https://github.com/1m1-github/FairTokenomics")
++ https://github.com/1m1-github/FairTokenomics
 
 ## FairAuction
 + reverse auction for fair initial valuation
 + everyone pays the same
 + built-in fair economic discount increasing with volume
-#link("https://github.com/1m1-github/FairAuction")
++ https://github.com/1m1-github/FairAuction
 
 ## FairPortfolio
 + diverisfy all assets to stabily minimize risk
 + multi international award winning algorithm
-#link("https://github.com/1m1-github/FairPortfolio")
-
-
++ https://github.com/1m1-github/FairPortfolio
