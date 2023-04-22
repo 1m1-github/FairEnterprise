@@ -1,8 +1,8 @@
 # FairEnterprise
 provides a service in exchange for a fee
 
-## Fair means...
-+ the information used for the decision is maximized
+## for something to be valued *fair*ly means...
++ valuation under maximal information
 + synonym of fairest
 
 ## FairDAO
