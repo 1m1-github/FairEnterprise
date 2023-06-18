@@ -18,10 +18,10 @@ provides a service in exchange for a fee
 + https://github.com/1m1-github/FairTreasury
 + https://www.placeholder.vc/blog/2020/9/17/stop-burning-tokens-buyback-and-make-instead
 
-## FairVesting
+## FairTransfer
 + transfers energy without credit risk
 + currently at per second granularity
-+ https://github.com/1m1-github/FairVesting
++ https://github.com/1m1-github/FairTransfer
 
 ## FairTokenomics
 + is optimizable and optimized
